@@ -1,2 +1,2 @@
 ﻿# projetopizzaria
-Projeto para praticar conhecimentos usando ReactJS, styled-components, radix-ui, typescript
+Projeto para praticar conhecimentos usando ReackJS, NodeJs, Prisma e Typescript
